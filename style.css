@@ -1,0 +1,88 @@
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav-link:hover{
+    color: maroon;
+    font-weight: bold;
+}
+.btn-warning:hover{
+    background-color: white;
+    color: rgba(250, 185, 7, 0.906);
+}
+
+.top-banner{
+
+    padding: 16.875rem 0 9.375rem;
+}
+.plus{
+    color: white;
+}
+.counter-section{
+    background-color:rgb(108, 14, 14) ;
+    padding: 2.5rem 0;
+}
+.counter-section p{
+    color: white;
+    text-transform: uppercase;
+}
+span[name="count"]{
+    color: rgba(250, 185, 7, 0.906);
+}
+header{
+    background-color:rgb(185, 148, 148);
+    /* box-shadow: 2px 2px 2px 0.7px white; */
+}
+
+
+/* about section */
+/* .about-section{
+    background-color: white;
+} */
+/* .about-section .card,
+.about-section .card img{
+    border-radius: 0.625rem;
+} */
+
+h1, h2, h5{
+    color: maroon;
+}
+.food-type{
+    padding-top: 3.25rem;
+}
+.food-type ul li{
+    font-size: 1rem;
+    line-height: 32px;
+    margin-left: 30px;
+}
+.text-danger{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.story-section{
+    text-align: center;
+}
+.text-content{
+    margin-top: 200px;
+}
+.card-subtitle{
+    color: maroon;
+}
+.price{
+    color: maroon;
+
+}
+
+.form-control:focus{
+    border:2px solid maroon;
+    box-shadow: none;
+}
+
+.link, .social a{
+    text-decoration: none;
+    color: white;
+}
+
+
